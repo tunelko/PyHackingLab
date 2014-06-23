@@ -1,4 +1,4 @@
-PyHLSolutionsDownloader
+PyHackingLab
 =======================
 
 A Python Class to download your **solutions and attached files** on Hacking-Lab.com.<br/>
