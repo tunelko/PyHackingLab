@@ -6,7 +6,7 @@
 """
 
 __author__ = "tunelko"
-__version__ = 'PyHLSolutionsDownlaoder v1.0'
+__version__ = 'PyHackingLab v1.0'
 
 import sys, logging, os
 import mechanize, re
