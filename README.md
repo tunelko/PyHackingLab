@@ -12,7 +12,7 @@ This script download all the solutions and attached files.
 **2. You must provide your credentials in order to work.**
 	
 **Example:** <br/>
-![example.png](https://raw.githubusercontent.com/tunelko/PyHLSolutionsDownloader/master/assets/images/example.png)
+![example.png](https://raw.githubusercontent.com/tunelko/PyHackingLab/master/assets/images/example.png)
 
 $ ./PyHLSolutionsDownloader.py
 
